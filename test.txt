@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 gMesut ben
 test ebn
@@ -5,3 +6,8 @@ test ebn
 new Branch
 
 Buda ýkýncý newBranch
+Mesut ben
+
+
+Davar deneme 2 
+ davar

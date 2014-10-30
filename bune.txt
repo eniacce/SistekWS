@@ -2,6 +2,7 @@ sdsldskldskl
 sdsdsdsdsd
 
 mesutbranchi
+
 ben mesut
 
 testBranch add from this
@@ -12,4 +13,8 @@ hayde  mesutbranchi
 
 bu cumle bunetxt ye test branchýnden yazýldý
 
+
+davar branchi
+
+commit geri alacam
 
