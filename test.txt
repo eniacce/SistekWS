@@ -1,4 +1,13 @@
+deneme test.tx dosyasına testBranchıne eklendi
+
+gMesut ben
+test ebn
+
+new Branch
+
+Buda ıkıncı newBranch
 Mesut ben
 
 
 Davar deneme 2 
+ davar

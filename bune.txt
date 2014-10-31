@@ -1,11 +1,26 @@
 sdsldskldskl
 sdsdsdsdsd
 
+<<<<<<< HEAD
 hayde  mesutbranchi
 
+testBranch
 mesutbranchi
+
+ben mesut
+
+testBranch add from this
+
+
+
+hayde  mesutbranchi
+
+bu cumle bunetxt ye test branchınden yazıldı
+
 
 davar branchi
 
 commit geri alacam
+
 davar
+ testBranch
