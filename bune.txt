@@ -1,7 +1,7 @@
 sdsldskldskl
 sdsdsdsdsd
 
-<<<<<<< HEAD
+
 hayde  mesutbranchi
 
 testBranch
