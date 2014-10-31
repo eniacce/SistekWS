@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+deneme test.tx dosyasýna testBranchýne eklendi
 
 gMesut ben
 test ebn
